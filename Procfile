@@ -1,0 +1,1 @@
+web: java -jar target/memoryproject-0.0.1-SNAPSHOT.jar
